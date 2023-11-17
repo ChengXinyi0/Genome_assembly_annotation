@@ -10,7 +10,7 @@
 #SBATCH --error=/data/users/xcheng/kmers_count_%j.e
 #SBATCH --partition=pall
 
-
+# READ QC
 
 # import jellyfish
 module load UHTS/Analysis/jellyfish/2.3.0

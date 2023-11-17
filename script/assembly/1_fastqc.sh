@@ -11,6 +11,7 @@
 #SBATCH --partition=pall
 #SBATCH --array=0-6
 
+# READ QC
 
 #import fastqc
 

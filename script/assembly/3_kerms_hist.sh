@@ -10,6 +10,7 @@
 #SBATCH --error=/data/users/xcheng/error_kmers_hist_%j.e
 #SBATCH --partition=pall
 
+# READ QC only illumina has result
 
 # import jellyfish
 module load UHTS/Analysis/jellyfish/2.3.0
