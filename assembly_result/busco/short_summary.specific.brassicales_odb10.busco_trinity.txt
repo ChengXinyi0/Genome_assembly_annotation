@@ -1,0 +1,19 @@
+# BUSCO version is: 5.1.2 
+# The lineage dataset is: brassicales_odb10 (Creation date: 2020-08-05, number of genomes: 10, number of BUSCOs: 4596)
+# Summarized benchmarking in BUSCO notation for file /data/users/xcheng/assembly_annotation_course/assembly/result/2_assemblies/trinity/Trinity.fasta
+# BUSCO was run in mode: genome
+# Gene predictor used: metaeuk
+
+	***** Results: *****
+
+	C:70.8%[S:31.4%,D:39.4%],F:7.0%,M:22.2%,n:4596	   
+	3253	Complete BUSCOs (C)			   
+	1443	Complete and single-copy BUSCOs (S)	   
+	1810	Complete and duplicated BUSCOs (D)	   
+	323	Fragmented BUSCOs (F)			   
+	1020	Missing BUSCOs (M)			   
+	4596	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.2
+	metaeuk: 1e75c9d468f5aace3f8e952e09170d5e9cbf01d7-MPI
